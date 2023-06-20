@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reentthevan/static/css/main.4bdd7c74.css",
+    "main.js": "/reentthevan/static/js/main.6384df3d.js",
+    "static/js/787.c6db8646.chunk.js": "/reentthevan/static/js/787.c6db8646.chunk.js",
+    "static/media/home-hero.png": "/reentthevan/static/media/home-hero.b28c53798eb71197afb0.png",
+    "index.html": "/reentthevan/index.html",
+    "main.4bdd7c74.css.map": "/reentthevan/static/css/main.4bdd7c74.css.map",
+    "main.6384df3d.js.map": "/reentthevan/static/js/main.6384df3d.js.map",
+    "787.c6db8646.chunk.js.map": "/reentthevan/static/js/787.c6db8646.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bdd7c74.css",
+    "static/js/main.6384df3d.js"
+  ]
+}
